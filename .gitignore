@@ -1,0 +1,9 @@
+# This is a default .gitignore for SCP:CB modding
+
+*.exe
+
+# When releasing a mod/modifying your mod you dont need these binaries/folders:
+
+Map Creator/
+B3D - RoomMesh Conversion.exe
+ReadMe.txt # Comment/remove this line if you need to setup a README file for others to take a look at
