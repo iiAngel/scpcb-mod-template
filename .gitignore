@@ -2,6 +2,10 @@
 
 *.exe
 
+# Never include Blitz3D backup files
+*.bb_bak1
+*.bb_bak2
+
 # When releasing a mod/modifying your mod you dont need these binaries/folders:
 
 Map Creator/
