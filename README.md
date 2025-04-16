@@ -7,6 +7,8 @@ https://scpcb-wiki.glorp.cc/en/Modding/Setup
 
 The wiki is still a WIP, some things may change overtime.
 
+Check out "Other Resources" for making your own documents, menus, SCP's labels and rooms
+
 ## License
 Original repository on github: https://github.com/Regalis11/scpcb.
 
